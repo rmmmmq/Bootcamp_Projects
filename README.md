@@ -15,8 +15,8 @@ This repository documents my journey through data analysis, technical troublesho
 
 ### 📂 Repository Structure
   To ensure easy navigation, the project is divided into two main sections:
-  * Workbooks: This directory contains all completed and graded workbooks. Each file reflects hands-on application of data technician principles.
-  * Workbook Images: A curated collection of screenshots highlighting key milestones, data visualizations, and relevant technical outputs from each module.
+  * [Workbooks](Workbooks): This directory contains all completed and graded workbooks. Each file reflects hands-on application of data technician principles.
+  * [Workbook Images](Workbook-images): A curated collection of screenshots highlighting key milestones, data visualizations, and relevant technical outputs from each module.
 
 ### ⚙️ Key Features
   * Professional Naming Convention: All files are systematically named for quick reference and ease of analysis.
