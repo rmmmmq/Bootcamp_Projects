@@ -27,15 +27,25 @@ This repository documents my journey through data analysis, technical troublesho
 ### 🖼️ Project Gallery
 Below are some key highlights from my completed workbooks:
 
-   1. Excel Data Cleaning showcasing the Best and Worst Exam Scores from a Dataset.
+   1. Excel Data Cleaning showcasing the Best and Worst Exam Scores from a Dataset
 ![Excel Dashboard](./Workbook-images/week1_wb.png)
 
    2. Tableau Vizualization showcasing the Cities impacted by the Job Change, with a value above 0%
 ![Tableau Dashboard](./Workbook-images/week2_wb_tableau.png)
-   
-   3. Python Skills, showcasing the ability to use _for_ instances
+
+   3. PowerBI, transforming raw data into dashboards, on a given Dataset
+![PowerBI Dashboard](./Workbook-images/week2_wb_powerbi.png)
+
+   4. SQL, Data Querying and Manipulation
+![SQL Join Queries](./Workbook-images/week3_wb.png)
+*Caption: Showing understanding of the JOIN Queries in SQL.*
+
+   5. Microsoft Azure: Cloud Data Fundamentals
+![Azure Cloud](./Workbook-images/week5_wb.png)
+
+   6. Python Skills, showcasing the ability to use _for_ instances
 ![Python](./Workbook-images/week6_wb.png)
   *Caption: For all numbers that are divisible by 3, show 'fizz', all numbers divisble by 5, show 'buzz', and numbers divisible by both, show 'fizzbuzz'. Show the number otherwise.*
-       
+
 
 Thank you for visiting my repository! Feel free to explore the folders above to see my work in detail.
