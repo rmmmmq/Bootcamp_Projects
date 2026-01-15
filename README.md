@@ -123,4 +123,4 @@ The final piece of my toolkit is Python, the industry standard for data science.
 
 
   
-Thank you for visiting my repository! Feel free to explore the folders above to see my work in detail.
+Thank you for visiting my repository! Feel free to explore the folders and the workbooks above to see my work in detail.
